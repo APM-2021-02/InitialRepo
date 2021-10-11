@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/APM-2021-02/InitialRepo/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Aquí está la imagen:
+<img src="SampleLogo.png">
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
